@@ -3,7 +3,7 @@
 > Generating images of flowers using deep convolutional generative adversarial networks (DCGANs) in the Pytorch framework.
 
 ## Run in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miaad2004/Generating-Flowers-with-DCGANs-in-TensorFlow/blob/main/DCGAN_Flower_Generation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Miaad2004/Generating-Flowers-with-DCGANs-in-Pytorch/blob/main/DCGAN_Flower_Generation.ipynb)
 
 
 ## Training GIF
